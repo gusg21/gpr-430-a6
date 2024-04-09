@@ -1,0 +1,9 @@
+[submodule "simplesock"]
+	path = simplesock
+	url = https://github.com/sabarrett/simplesock
+[submodule "SDL"]
+	path = SDL
+	url = https://github.com/libsdl-org/SDL
+[submodule "SDL_ttf"]
+	path = SDL_ttf
+	url = https://github.com/libsdl-org/SDL_ttf
