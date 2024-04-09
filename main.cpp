@@ -95,7 +95,7 @@ public:
   {
     // TODO: Implement this
     sock = new Socket(Socket::Family::INET, Socket::Type::STREAM);
-    sock->Connect(Address("127.0.0.1", 24925));
+    sock->Connect(Address("68.183.63.165", 24925));
     sock->SetNonBlockingMode(true);
   }
 
